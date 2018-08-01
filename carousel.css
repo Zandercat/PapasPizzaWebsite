@@ -57,9 +57,19 @@ body {
 .marketing h2 {
   font-weight: 400;
 }
+.marketing h6 {
+  color: #4e4ed1;
+  font-weight: 30;
+}
 .marketing .col-lg-4 p {
   margin-right: .75rem;
   margin-left: .75rem;
+}
+.marketing .combopic {
+  padding: 1px;
+  border: 1px solid #444444;
+  margin-left: 67px;
+  margin-right: 67px;
 }
 
 
