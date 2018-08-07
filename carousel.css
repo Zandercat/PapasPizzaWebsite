@@ -68,8 +68,9 @@ body {
 .marketing .combopic {
   padding: 1px;
   border: 1px solid #444444;
-  margin-left: 67px;
-  margin-right: 67px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 
